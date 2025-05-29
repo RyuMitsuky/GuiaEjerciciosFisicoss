@@ -20,4 +20,7 @@ Realiza una secuencia controlada de ejercicios.
 
 Termina con estiramientos ligeros.
 
+### Consejos
+Concéntrate en la respiración.
 
+Controla cada movimiento para obtener mejores resultados.
