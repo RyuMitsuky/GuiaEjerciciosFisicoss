@@ -9,4 +9,4 @@ Los ejercicios de fuerza implican el uso de resistencia para inducir contraccion
 
 ### Beneficios
 Incrementa la masa muscular.
-
+Mejora la salud ósea.
