@@ -24,4 +24,4 @@ Usa la técnica correcta para evitar lesiones.
 
 Aumenta progresivamente el peso.
 
-
+### Rama `fuerza`
