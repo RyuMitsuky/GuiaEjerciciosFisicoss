@@ -26,3 +26,4 @@ Aprende bien la técnica antes de aumentar la intensidad.
 
 Escucha a tu cuerpo para evitar el sobreentrenamiento.
 
+### Rama `crossfit`
