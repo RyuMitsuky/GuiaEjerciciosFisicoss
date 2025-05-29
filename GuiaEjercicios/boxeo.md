@@ -21,3 +21,9 @@ Calienta con saltos, sombra o cuerda.
 Realiza combinaciones de golpes y trabajo con saco o pads.
 
 Termina con ejercicios de core y estiramientos.
+
+### Consejos
+Usa vendas y guantes para proteger tus manos.
+
+Enfócate en la técnica antes de buscar potencia.
+
