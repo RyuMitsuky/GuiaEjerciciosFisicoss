@@ -27,3 +27,5 @@ No fuerces los movimientos.
 
 Respira profundamente durante los estiramientos.
 
+### Rama `flexibilidad`
+
