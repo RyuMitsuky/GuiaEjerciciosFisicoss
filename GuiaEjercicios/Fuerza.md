@@ -19,4 +19,9 @@ Realiza ejercicios como sentadillas, press de banca o peso muerto en series de 8
 
 Finaliza con estiramientos para los músculos trabajados.
 
+### consejos
+Usa la técnica correcta para evitar lesiones.
+
+Aumenta progresivamente el peso.
+
 
