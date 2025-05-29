@@ -6,3 +6,10 @@
 ### Descripción
 Pilates es un sistema de ejercicios que fortalece el cuerpo con énfasis en el core, la alineación y el control del movimiento.
 
+#### Beneficios
+Fortalece el abdomen y la espalda.
+
+Mejora la postura.
+
+Aumenta la conciencia corporal.
+
