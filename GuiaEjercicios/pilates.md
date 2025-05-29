@@ -24,3 +24,5 @@ Termina con estiramientos ligeros.
 Concéntrate en la respiración.
 
 Controla cada movimiento para obtener mejores resultados.
+
+### Rama `pilates`
