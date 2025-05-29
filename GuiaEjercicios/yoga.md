@@ -24,3 +24,6 @@ Finaliza con una relajación o meditación.
 Usa una esterilla antideslizante.
 
 Escucha a tu cuerpo y adapta las posturas si es necesario.
+
+
+### Rama `yoga`
