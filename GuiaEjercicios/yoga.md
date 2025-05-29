@@ -13,3 +13,11 @@ Reduce el estrés.
 
 Fortalece el cuerpo y la mente.
 
+### Instrucciones
+Elige una secuencia o rutina de yoga según tu nivel.
+
+Realiza las posturas (asanas) manteniendo una respiración consciente.
+
+Finaliza con una relajación o meditación.
+
+
