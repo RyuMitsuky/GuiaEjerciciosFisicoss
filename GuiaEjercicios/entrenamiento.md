@@ -22,3 +22,8 @@ Realiza circuitos con ejercicios como sentadillas, estocadas, y levantamientos.
 
 Finaliza con estiramientos dinámicos.
 
+### Consejos
+Enfócate en la técnica y el control.
+
+Varía los ejercicios para trabajar distintos patrones de movimiento.
+
