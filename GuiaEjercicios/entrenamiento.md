@@ -27,3 +27,4 @@ Enfócate en la técnica y el control.
 
 Varía los ejercicios para trabajar distintos patrones de movimiento.
 
+### Rama `entrenamiento`
