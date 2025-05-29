@@ -12,3 +12,9 @@ Mejora la salud cardiovascular.
 
 Es amigable con las articulaciones.
 
+### Instrucciones
+Ajusta la bicicleta a tu altura.
+
+Pedalea a un ritmo constante durante al menos 30 minutos.
+
+Enfría pedaleando suavemente y estira al finalizar.
