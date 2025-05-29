@@ -13,4 +13,11 @@ Fortalece todos los grupos musculares.
 
 Es de bajo impacto.
 
+### Instrucciones
+Realiza un calentamiento nadando lentamente.
+
+Nada con distintos estilos durante 30-45 minutos.
+
+Finaliza con estiramientos fuera del agua.
+
 
