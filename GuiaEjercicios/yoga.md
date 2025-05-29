@@ -20,4 +20,7 @@ Realiza las posturas (asanas) manteniendo una respiración consciente.
 
 Finaliza con una relajación o meditación.
 
+### Consejos
+Usa una esterilla antideslizante.
 
+Escucha a tu cuerpo y adapta las posturas si es necesario.
