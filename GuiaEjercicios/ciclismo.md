@@ -18,3 +18,8 @@ Ajusta la bicicleta a tu altura.
 Pedalea a un ritmo constante durante al menos 30 minutos.
 
 Enfría pedaleando suavemente y estira al finalizar.
+
+### Consejos
+Usa casco y equipo de seguridad si estás al aire libre.
+
+Mantén una postura adecuada en la bicicleta.
