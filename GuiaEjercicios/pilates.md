@@ -13,3 +13,11 @@ Mejora la postura.
 
 Aumenta la conciencia corporal.
 
+### Instrucciones
+Calienta suavemente los músculos.
+
+Realiza una secuencia controlada de ejercicios.
+
+Termina con estiramientos ligeros.
+
+
