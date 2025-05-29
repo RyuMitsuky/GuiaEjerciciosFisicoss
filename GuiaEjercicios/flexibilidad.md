@@ -15,3 +15,9 @@ Previene lesiones.
 
 Mejora la postura y la coordinación.
 
+### Instrucciones
+Realiza un calentamiento ligero antes de estirar.
+
+Mantén cada estiramiento durante 20-30 segundos sin rebotes.
+
+Concéntrate en los principales grupos musculares.
