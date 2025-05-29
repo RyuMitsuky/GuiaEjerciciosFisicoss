@@ -14,3 +14,10 @@ Mejora la capacidad funcional.
 
 Promueve el trabajo en equipo y la motivación.
 
+### Instrucciones
+Realiza un calentamiento específico.
+
+Participa en el WOD (Workout of the Day) que puede incluir ejercicios variados.
+
+Finaliza con una fase de recuperación y estiramientos.
+
