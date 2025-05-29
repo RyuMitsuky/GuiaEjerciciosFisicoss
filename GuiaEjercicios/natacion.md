@@ -21,3 +21,8 @@ Nada con distintos estilos durante 30-45 minutos.
 Finaliza con estiramientos fuera del agua.
 
 
+### Consejos
+Usa gafas y gorro para mayor comodidad.
+
+Controla tu respiración en cada brazada.
+
